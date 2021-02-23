@@ -1,0 +1,219 @@
+"State.UnionTerritory","month","Cases_type","Cases_counts","Cases_size"
+"Andhra Pradesh","Apr","Deaths",31,0.0331196581196581
+"Andhra Pradesh","Jul","Confirmed",130557,0.110258517235468
+"Andhra Pradesh","Jul","Cured",60024,0.0804294286166042
+"Andhra Pradesh","Aug","Confirmed",424767,0.168406233100581
+"Andhra Pradesh","Aug","Cured",321754,0.165751503078278
+"Andhra Pradesh","Aug","Deaths",3884,0.0745089011663597
+"Andhra Pradesh","Sep","Confirmed",687351,0.165098313038052
+"Andhra Pradesh","Sep","Cured",622136,0.177390809458053
+"Andhra Pradesh","Sep","Deaths",5780,0.075927750410509
+"Andhra Pradesh","Oct","Confirmed",820565,0.15416387985
+"Andhra Pradesh","Oct","Cured",788375,0.162450994250569
+"Andhra Pradesh","Oct","Deaths",6676,0.0717810870383313
+"Andhra Pradesh","Nov","Confirmed",867683,0.143175704964814
+"Andhra Pradesh","Nov","Cured",852298,0.149439683158373
+"Andhra Pradesh","Nov","Deaths",6988,0.0680355560748118
+"Andhra Pradesh","Dec","Confirmed",872839,0.140321970516019
+"Andhra Pradesh","Dec","Cured",860368,0.145765345660033
+"Andhra Pradesh","Dec","Deaths",7042,0.0669894692782603
+"Delhi","Mar","Confirmed",97,0.10125260960334
+"Delhi","Mar","Cured",6,0.0555555555555556
+"Delhi","Mar","Deaths",2,0.0666666666666667
+"Delhi","Apr","Confirmed",3439,0.127848618907766
+"Delhi","Apr","Cured",1092,0.177157689811811
+"Delhi","Apr","Deaths",56,0.0598290598290598
+"Delhi","May","Confirmed",18549,0.127750573358954
+"Delhi","May","Cured",8075,0.112185498548188
+"Delhi","May","Deaths",416,0.0891555936562366
+"Delhi","Jun","Confirmed",85161,0.197314186019031
+"Delhi","Jun","Cured",56235,0.218790243826524
+"Delhi","Jun","Deaths",2680,0.176932725952334
+"Delhi","Jul","Confirmed",134403,0.113506556461917
+"Delhi","Jul","Cured",119724,0.160424711976781
+"Delhi","Jul","Deaths",3936,0.13001255202484
+"Delhi","Aug","Confirmed",173390,0.0687434682009423
+"Delhi","Aug","Cured",154171,0.0794211570985322
+"Delhi","Aug","Deaths",4426,0.0849063842848373
+"Delhi","Sep","Confirmed",276325,0.066371899291977
+"Delhi","Sep","Cured",243481,0.0694241961205526
+"Delhi","Sep","Deaths",5320,0.0698850574712644
+"Delhi","Oct","Confirmed",381644,0.0717014736937032
+"Delhi","Oct","Cured",342811,0.070638957082647
+"Delhi","Oct","Deaths",6470,0.0695661523574001
+"Delhi","Nov","Confirmed",566648,0.0935021509778365
+"Delhi","Nov","Cured",522491,0.0916121937316542
+"Delhi","Nov","Deaths",9066,0.0882670794754213
+"Delhi","Dec","Confirmed",597112,0.0959947166187131
+"Delhi","Dec","Cured",565039,0.0957300889228787
+"Delhi","Dec","Deaths",9763,0.0928739262373836
+"Gujarat","Mar","Deaths",6,0.2
+"Gujarat","Apr","Confirmed",4082,0.151752853265921
+"Gujarat","Apr","Cured",527,0.0854964308890331
+"Gujarat","Apr","Deaths",197,0.210470085470085
+"Gujarat","May","Confirmed",16343,0.112557421985303
+"Gujarat","May","Cured",9230,0.128231845399353
+"Gujarat","May","Deaths",1007,0.215816545220746
+"Gujarat","Jun","Confirmed",31938,0.0739989017634343
+"Gujarat","Jun","Cured",23240,0.090418516342641
+"Gujarat","Jun","Deaths",1827,0.120617944147356
+"Gujarat","Jul","Deaths",2418,0.0798705159542842
+"Haryana","Mar","Cured",21,0.194444444444444
+"Jammu and Kashmir","Mar","Deaths",2,0.0666666666666667
+"Karnataka","Mar","Confirmed",83,0.0866388308977036
+"Karnataka","Mar","Cured",5,0.0462962962962963
+"Karnataka","Mar","Deaths",3,0.1
+"Karnataka","Jul","Confirmed",118632,0.100187568775922
+"Karnataka","Jul","Cured",46694,0.0625678351963167
+"Karnataka","Jul","Deaths",2230,0.0736605668230164
+"Karnataka","Aug","Confirmed",335928,0.133184473071147
+"Karnataka","Aug","Cured",242229,0.124784216634908
+"Karnataka","Aug","Deaths",5589,0.107216850828729
+"Karnataka","Sep","Confirmed",592911,0.142414291798083
+"Karnataka","Sep","Cured",476378,0.135830556386398
+"Karnataka","Sep","Deaths",8777,0.115297208538588
+"Karnataka","Oct","Confirmed",820398,0.154132504678095
+"Karnataka","Oct","Cured",749740,0.154489942513933
+"Karnataka","Oct","Deaths",11140,0.119778506531907
+"Karnataka","Nov","Confirmed",883899,0.145851494661869
+"Karnataka","Nov","Cured",847612,0.148618052278939
+"Karnataka","Nov","Deaths",11765,0.114544693362931
+"Karnataka","Dec","Confirmed",895284,0.143930341164251
+"Karnataka","Dec","Cured",858370,0.145426840322051
+"Karnataka","Dec","Deaths",11880,0.113012623548102
+"Kerala","Jan","Confirmed",1,1
+"Kerala","Jan","Cured",0,NA
+"Kerala","Jan","Deaths",0,NA
+"Kerala","Feb","Confirmed",3,1
+"Kerala","Feb","Cured",0,NA
+"Kerala","Feb","Deaths",0,NA
+"Kerala","Mar","Confirmed",234,0.244258872651357
+"Kerala","Mar","Cured",19,0.175925925925926
+"Kerala","Oct","Confirmed",425122,0.0798699151555232
+"Kerala","Oct","Cured",332994,0.0686160854662743
+"Kerala","Nov","Confirmed",599600,0.0989395351722952
+"Kerala","Nov","Cured",532658,0.0933948486934999
+"Kerala","Dec","Confirmed",644696,0.103644558851971
+"Kerala","Dec","Cured",582351,0.0986631241636902
+"Madhya Pradesh","Mar","Deaths",3,0.1
+"Madhya Pradesh","Apr","Confirmed",2660,0.0988884345142942
+"Madhya Pradesh","Apr","Cured",461,0.0747890979883193
+"Madhya Pradesh","Apr","Deaths",130,0.138888888888889
+"Madhya Pradesh","May","Confirmed",7891,0.0543468528964097
+"Madhya Pradesh","May","Cured",4444,0.0617402297892441
+"Madhya Pradesh","May","Deaths",343,0.0735105015002143
+"Madhya Pradesh","Jun","Deaths",564,0.0372350960586255
+"Maharashtra","Mar","Confirmed",216,0.225469728601253
+"Maharashtra","Mar","Cured",39,0.361111111111111
+"Maharashtra","Mar","Deaths",9,0.3
+"Maharashtra","Apr","Confirmed",9915,0.368601063236552
+"Maharashtra","Apr","Cured",1593,0.258436080467229
+"Maharashtra","Apr","Deaths",432,0.461538461538462
+"Maharashtra","May","Confirmed",65168,0.448824700234853
+"Maharashtra","May","Cured",28081,0.39012767612776
+"Maharashtra","May","Deaths",2197,0.470852978997
+"Maharashtra","Jun","Confirmed",169883,0.393611228889646
+"Maharashtra","Jun","Cured",88960,0.346111498013827
+"Maharashtra","Jun","Deaths",7610,0.502409718095993
+"Maharashtra","Jul","Confirmed",411798,0.347773285848565
+"Maharashtra","Jul","Cured",248615,0.33313278681056
+"Maharashtra","Jul","Deaths",14729,0.486523089119376
+"Maharashtra","Aug","Confirmed",780689,0.309517673720085
+"Maharashtra","Aug","Cured",562401,0.289720752757468
+"Maharashtra","Aug","Deaths",24399,0.468059392265193
+"Maharashtra","Sep","Confirmed",1366129,0.328137433847279
+"Maharashtra","Sep","Cured",1069159,0.304851319405021
+"Maharashtra","Sep","Deaths",36181,0.47528407224959
+"Maharashtra","Oct","Confirmed",1672858,0.314288666611557
+"Maharashtra","Oct","Cured",1503050,0.309715512171641
+"Maharashtra","Oct","Deaths",43837,0.471340250524165
+"Maharashtra","Nov","Confirmed",1820059,0.3003265367681
+"Maharashtra","Nov","Cured",1680926,0.294729130952638
+"Maharashtra","Nov","Deaths",47071,0.458285870062603
+"Maharashtra","Dec","Confirmed",1859367,0.298921154247757
+"Maharashtra","Dec","Cured",1737080,0.29429972597671
+"Maharashtra","Dec","Deaths",47827,0.454970938252109
+"Punjab","Mar","Deaths",3,0.1
+"Rajasthan","Mar","Confirmed",74,0.0772442588726514
+"Rajasthan","Apr","Confirmed",2438,0.0906353396037027
+"Rajasthan","Apr","Cured",768,0.124594419208306
+"Rajasthan","Apr","Deaths",51,0.0544871794871795
+"Rajasthan","May","Confirmed",8617,0.0593469562043293
+"Rajasthan","May","Cured",5739,0.0797315883799442
+"Rajasthan","May","Deaths",193,0.0413630518645521
+"Rajasthan","Jun","Confirmed",17660,0.0409174214146862
+"Rajasthan","Jun","Cured",13618,0.0529827605660106
+"Tamil Nadu","Mar","Confirmed",74,0.0772442588726514
+"Tamil Nadu","Mar","Cured",4,0.037037037037037
+"Tamil Nadu","Apr","Confirmed",2162,0.0803747351202647
+"Tamil Nadu","Apr","Cured",1210,0.196301103179753
+"Tamil Nadu","May","Confirmed",21184,0.145898331232739
+"Tamil Nadu","May","Cured",12000,0.166715291960155
+"Tamil Nadu","Jun","Confirmed",86224,0.199777108950165
+"Tamil Nadu","Jun","Cured",47749,0.185774257179207
+"Tamil Nadu","Jun","Deaths",1141,0.0753284478774675
+"Tamil Nadu","Jul","Confirmed",239978,0.202667175633119
+"Tamil Nadu","Jul","Cured",178178,0.238750412036007
+"Tamil Nadu","Jul","Deaths",3838,0.126775450881945
+"Tamil Nadu","Aug","Confirmed",422085,0.167342907754742
+"Tamil Nadu","Aug","Cured",362133,0.186552736140797
+"Tamil Nadu","Aug","Deaths",7231,0.138716236955187
+"Tamil Nadu","Sep","Confirmed",591943,0.142181782982324
+"Tamil Nadu","Sep","Cured",536209,0.152890282106634
+"Tamil Nadu","Sep","Deaths",9453,0.124177339901478
+"Tamil Nadu","Oct","Confirmed",722011,0.135648019418789
+"Tamil Nadu","Oct","Cured",687388,0.141641812634736
+"Tamil Nadu","Oct","Deaths",11091,0.119251653136928
+"Tamil Nadu","Nov","Confirmed",780505,0.128790530186211
+"Tamil Nadu","Nov","Cured",757750,0.132861886233755
+"Tamil Nadu","Nov","Deaths",11703,0.113941057919794
+"Tamil Nadu","Dec","Confirmed",792788,0.127452570704853
+"Tamil Nadu","Dec","Cured",770378,0.130519051683564
+"Tamil Nadu","Dec","Deaths",11822,0.112460878416301
+"Telangana","Mar","Confirmed",79,0.0824634655532359
+"Uttar Pradesh","Mar","Confirmed",101,0.105427974947808
+"Uttar Pradesh","Mar","Cured",14,0.12962962962963
+"Uttar Pradesh","Apr","Confirmed",2203,0.0818989553515001
+"Uttar Pradesh","Apr","Cured",513,0.0832251784555483
+"Uttar Pradesh","Apr","Deaths",39,0.0416666666666667
+"Uttar Pradesh","May","Confirmed",7445,0.0512751640874123
+"Uttar Pradesh","May","Cured",4410,0.061267869795357
+"Uttar Pradesh","May","Deaths",201,0.0430775825117874
+"Uttar Pradesh","Jun","Confirmed",22828,0.052891443717693
+"Uttar Pradesh","Jun","Cured",15506,0.0603282923583904
+"Uttar Pradesh","Jun","Deaths",672,0.0443652208358091
+"Uttar Pradesh","Jul","Confirmed",81039,0.0684393788019414
+"Uttar Pradesh","Jul","Cured",46803,0.0627138902362876
+"Uttar Pradesh","Jul","Deaths",1587,0.0524212195283081
+"Uttar Pradesh","Aug","Confirmed",225632,0.089455713807688
+"Uttar Pradesh","Aug","Cured",167543,0.0863097399884503
+"Uttar Pradesh","Aug","Deaths",3423,0.0656652854511971
+"Uttar Pradesh","Sep","Confirmed",394856,0.0948424596646445
+"Uttar Pradesh","Sep","Cured",336981,0.0960840272255328
+"Uttar Pradesh","Sep","Deaths",5715,0.0750738916256158
+"Uttar Pradesh","Oct","Confirmed",480082,0.0901955405923332
+"Uttar Pradesh","Oct","Cured",448644,0.0924466958801995
+"Uttar Pradesh","Oct","Deaths",7007,0.0753400354819633
+"Uttar Pradesh","Nov","Confirmed",541873,0.0894140472688745
+"Uttar Pradesh","Nov","Cured",509556,0.0893442049511414
+"Uttar Pradesh","Nov","Deaths",7742,0.0753765419477953
+"Uttar Pradesh","Dec","Confirmed",558173,0.0897346878964365
+"Uttar Pradesh","Dec","Cured",528832,0.089595823271073
+"Uttar Pradesh","Dec","Deaths",7967,0.0757888528457682
+"West Bengal","Mar","Deaths",2,0.0666666666666667
+"West Bengal","May","Deaths",309,0.0662237462494642
+"West Bengal","Jun","Confirmed",17907,0.0414897092453447
+"West Bengal","Jun","Cured",11719,0.0455944317133998
+"West Bengal","Jun","Deaths",653,0.0431108470324157
+"West Bengal","Jul","Confirmed",67692,0.0571675172430684
+"West Bengal","Jul","Cured",46256,0.0619809351274431
+"West Bengal","Jul","Deaths",1536,0.0507366056682302
+"West Bengal","Aug","Confirmed",159785,0.0633495303448156
+"West Bengal","Aug","Cured",130952,0.0674598943015677
+"West Bengal","Aug","Deaths",3176,0.060926949048496
+"West Bengal","Sep","Confirmed",253768,0.0609538193776402
+"West Bengal","Sep","Cured",222805,0.0635288092978086
+"West Bengal","Sep","Deaths",4899,0.0643546798029557
+"West Bengal","Oct","Deaths",6784,0.0729423149293049
+"West Bengal","Nov","Deaths",8376,0.0815492011566434
+"West Bengal","Dec","Deaths",8820,0.0839033114220755
